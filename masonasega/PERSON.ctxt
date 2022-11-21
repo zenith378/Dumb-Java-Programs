@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PERSON()
+comment1.params=neuerName
+comment1.target=void\ setzeName(java.lang.String)
+comment2.params=neuesAlter
+comment2.target=void\ setzeAlter(int)
+numComments=3

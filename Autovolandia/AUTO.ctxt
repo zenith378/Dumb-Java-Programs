@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AUTO()
+comment1.params=
+comment1.target=int\ nenneTankvolumen()
+comment2.params=
+comment2.target=int\ nenneTankinhalt()
+comment3.params=
+comment3.target=int\ nenneGefahreneKilometer()
+comment4.params=
+comment4.target=double\ verbrauchBerechnen()
+numComments=5

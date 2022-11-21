@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y\ name
+comment0.target=BILD(int,\ int,\ java.lang.String)
+comment0.text=\n\ BILD\ Konstruktor\n\n\ @param\ \ \ x\ \ \ \ \ \ \ x-Koordinate\ der\ linken\ oberen\ Ecke\ des\ Bildes\ im\ Fenster\n\ @param\ \ \ y\ \ \ \ \ \ \ y-Koordinate\ der\ linken\ oberen\ Ecke\ des\ Bildes\ im\ Fenster\n\ @param\ \ \ name\ \ \ \ Name\ der\ Bilddatei,\ z.B.\ bild.png\ (Bild-Datei\ muss\ im\ Projekt-Ordner\ liegen)\n
+numComments=1

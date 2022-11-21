@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=SCHLAEGER(int,\ int)
+comment1.params=
+comment1.target=void\ bewegen()
+comment2.params=
+comment2.target=void\ verringereDeltaY()
+comment3.params=
+comment3.target=void\ erhoeheDeltaY()
+comment4.params=deltaXneu
+comment4.target=int\ setzeDeltaX(int)
+comment5.params=deltaYneu
+comment5.target=int\ setzeDeltaY(int)
+comment6.params=wo
+comment6.target=void\ stopp(java.lang.String)
+numComments=7

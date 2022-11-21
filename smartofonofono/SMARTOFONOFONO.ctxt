@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SMARTOFONOFONO()
+comment1.params=
+comment1.target=int\ nenneHandynummer()
+comment2.params=
+comment2.target=java.lang.String\ nenneSpeichekapazitaet()
+comment3.params=
+comment3.target=java.lang.String\ nenneBetriebssystem()
+comment4.params=sNeu
+comment4.target=void\ setzeSpeichekapazitaet(java.lang.String)
+numComments=5

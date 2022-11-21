@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FRAU()
+comment1.params=
+comment1.target=java.lang.String\ nenneHaarfarbe()
+comment2.params=
+comment2.target=java.lang.String\ nenneName()
+comment3.params=
+comment3.target=double\ nenneKoerpergroesse()
+comment4.params=haarfarbeNeu
+comment4.target=void\ setzeHaarfarbe(java.lang.String)
+numComments=5

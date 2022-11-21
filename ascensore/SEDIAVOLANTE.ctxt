@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SEDIAVOLANTE()
+comment1.params=etageNeu\ aktiviert
+comment1.target=SEDIAVOLANTE(int,\ boolean)
+comment2.params=kNeu
+comment2.target=void\ setzeKennung(java.lang.String)
+comment3.params=eNeu
+comment3.target=void\ setzeEtage(int)
+comment4.params=
+comment4.target=java.lang.String\ nenneKennung()
+comment5.params=
+comment5.target=int\ nenneEtage()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SCHEASDUF\u00DCASO\u00C4DGHF()
+comment1.params=neueJahrgangsstufe
+comment1.target=void\ setzeJahrgangsstufe(int)
+comment2.params=neuesKlassenkuerzel
+comment2.target=void\ setzeKlassenkuerzel(char)
+comment3.params=
+comment3.target=int\ nenneJahrgangsstufe()
+comment4.params=
+comment4.target=int\ nenneKlassenkuerzel()
+numComments=5

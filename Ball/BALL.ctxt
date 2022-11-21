@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BALL()
+comment1.params=
+comment1.target=int\ nenneRadius()
+comment2.params=
+comment2.target=java.lang.String\ nenneFarbe()
+comment3.params=fNeu
+comment3.target=void\ setzeFarbe(java.lang.String)
+comment4.params=rNeu
+comment4.target=void\ setzeRadius(int)
+numComments=5
